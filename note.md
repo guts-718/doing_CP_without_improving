@@ -1,2 +1,3 @@
 - always prefer fenwick over pbds wherever possible
+- ternary search - (2l+r)/3... (l+2r)/3 while(r-l >= 3) then check for l to r again or infinite loop
 - 
